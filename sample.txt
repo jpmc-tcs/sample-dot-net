@@ -1,21 +1,3 @@
-new changes added
- 
-
-this is  the first file added in this dot net project"
-
-hii
-
-
-
-
-========
-========
-
-
-
-
-
-
-------
-New changes has been made into release branch
+hi this is new content
+adding and oushing into the github reote repo`:wq!
 
